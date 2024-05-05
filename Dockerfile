@@ -11,4 +11,4 @@ RUN go build main.go
 
 CMD /app/main
 
-EXPOSE 8080
+EXPOSE 8081
