@@ -5,3 +5,4 @@ services:
     ports: 
       - 8081:8081
     container_name: world-of-ai-art
+    restart: unless-stopped
